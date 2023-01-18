@@ -1,0 +1,12 @@
+{
+    "Lua.diagnostics.globals": [
+        "FauxScrollFrame_Update",
+        "UISpecialFrames",
+        "GameTooltip",
+        "FauxScrollFrame_GetOffset",
+        "StaticPopupDialogs",
+        "StaticPopup_Show",
+        "NORMAL_FONT_COLOR_CODE",
+        "FONT_COLOR_CODE_CLOSE"
+    ]
+}
